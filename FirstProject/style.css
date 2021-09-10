@@ -1,0 +1,17 @@
+.navigationbar {
+    background-color: gray;
+    color: whitesmoke;
+    width: 200px;
+}
+
+.writingstyle {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: normal;
+}
+
+.banner {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-style: normal;
+}
